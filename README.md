@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Alokrao91/Bank-Churn-Prediction/blob/main/image.png?raw=true)
+![Alt text](https://github.com/Alokrao91/Bank-Churn-Prediction/blob/main/image.png?raw=true)
 
 
 # Bank-Churn-Prediction
