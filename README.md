@@ -1,3 +1,7 @@
+
+[!mage alt](https://github.com/Alokrao91/Bank-Churn-Prediction/blob/main/image.png?raw=true)
+
+
 # Bank-Churn-Prediction
 Unlocking Customer Retention Insights.
 
